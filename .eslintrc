@@ -1,0 +1,14 @@
+{
+    "extends": [
+        "eslint:recommended"
+    ],
+    "rules": {
+        "camelcase": "error",
+        "brace-style": "error",
+        "comma-dangle": "error",
+        "arrow-body-style": "error",
+        "arrow-parens": "error",
+        "arrow-spacing": "error",
+        "no-var": "error"
+    }
+}
