@@ -13,5 +13,11 @@
         "arrow-parens": "error",
         "arrow-spacing": "error",
         "no-var": "error"
+    },
+    "globals": {
+        "exports": "writable",
+        "module": "writable",
+        "require": "writable",
+        "process": "writable"
     }
 }
