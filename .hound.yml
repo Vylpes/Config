@@ -7,3 +7,7 @@ jshint:
 eslint:
   enabled: true
   config_file: .eslintrc
+
+tslint:
+  enabled: true
+  config_file: .tslintrc
