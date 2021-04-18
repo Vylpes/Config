@@ -45,6 +45,7 @@
         "require": "writable",
         "process": "writable",
         "console": "writable",
-        "Promise": "writable"
+        "Promise": "writable",
+        "__dirname": "readonly"
     }
 }
